@@ -224,4 +224,10 @@ a{
         height: 60px;
 
     }
+   
+}
+@media (max-width: 400px) {
+    .parrafo{
+        display: none;
+    }
 }
